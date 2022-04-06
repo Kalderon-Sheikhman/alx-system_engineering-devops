@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x  2 kduah kduah 4096 Apr  4 08:46 .
+drwxr-xr-x 78 kduah kduah 4096 Apr  4 07:11 ..
+-rwxrw-r--  1 kduah kduah   34 Apr  4 07:20 0-hello_world
+-rwxrw-r--  1 kduah kduah   28 Apr  4 07:33 1-confused_smiley
+-rwxrw-r--  1 kduah kduah   28 Apr  4 07:39 2-hellofile
+-rwxrw-r--  1 kduah kduah   39 Apr  4 07:45 3-twofiles
+-rwxrw-r--  1 kduah kduah   33 Apr  4 07:55 4-lastlines
+-rwxrw-r--  1 kduah kduah   33 Apr  4 07:58 5-firstlines
+-rwxrw-r--  1 kduah kduah   42 Apr  4 08:14 6-third_line
+-rwxrw-r--  1 kduah kduah   71 Apr  4 08:38 7-file
+-rwxrw-r--  1 kduah kduah   12 Apr  4 08:38 *\"Best School"\\*$?*****:
+-rw-rw-r--  1 kduah kduah   12 Apr  4 08:24 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r--  1 kduah kduah    0 Apr  4 08:46 ls_cwd_content
+-rw-rw-r--  1 kduah kduah   35 Apr  4 07:15 README.md
